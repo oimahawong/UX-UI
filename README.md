@@ -5,6 +5,6 @@ In this project I designed and programmed the landing page intended for BitGamer
 ![alt text](https://github.com/oimahawong/UX-UI/blob/main/game.png)
 
 
-In this project, I created a mock-up page for Psycharmor Institute, designed specifically for their new client as a health provider profile page
+In this project, I created a mock-up page for Psycharmor Institute, designed specifically for their new client as a health provider dashboard page
 ![alt text](https://github.com/oimahawong/UX-UI/blob/main/dashboard%20mockup.pdf)
 
