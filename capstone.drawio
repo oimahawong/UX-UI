@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" version="24.9.1">
+  <diagram name="Page-1" id="F3TrKfFbRiF8tJtaXqeu">
+    <mxGraphModel dx="2722" dy="1161" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lpOA4O-bADo8tYY5proH-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;file&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Background.js (javascript)&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ onMessage: (request: Object, sender: object, sendResponse: function: void)&lt;br&gt;+ fetchCompanies(domain:String)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- fetchCompanies(domain:String):&amp;nbsp;&lt;br&gt;- fetchDataFromAPI(domain:String:Promise&amp;lt;Object&amp;gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-1373" y="-231" width="498" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lpOA4O-bADo8tYY5proH-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;file&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;popup.css (CSS)&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- body: width = 400px, height = 400px&lt;br&gt;- h1: color = blue&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- popup-body: class styling&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- domain-input: class type&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;-company-info-header: class styling&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;-company-info-output:class styling&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-1204" y="6" width="355" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lpOA4O-bADo8tYY5proH-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;curved=1;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-819" y="86" as="sourcePoint" />
+            <mxPoint x="-659" y="86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lpOA4O-bADo8tYY5proH-8" value="styling for pop.html" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-832" y="48" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lpOA4O-bADo8tYY5proH-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;file&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;pop.html&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- title: String = &quot;SigParser API&quot;&lt;br&gt;- link: CSSFile = &quot;popup.css&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- script: JSFile = &quot;popup.js&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- body: HTMLBodyElement&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-649" y="20" width="401" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="lpOA4O-bADo8tYY5proH-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;curved=1;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1007" y="331" as="sourcePoint" />
+            <mxPoint x="-657.8644067796611" y="101" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lpOA4O-bADo8tYY5proH-11" value="Fetch Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-30;" parent="1" vertex="1">
+          <mxGeometry x="-897.88" y="178.32" width="109" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="lpOA4O-bADo8tYY5proH-13" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;file&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;popup.js (javaScript)&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ fetchCompanyInfo: void&lt;br&gt;+ injectionDataIntoDiv: (data:Object):void&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-1350" y="253" width="298" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lpOA4O-bADo8tYY5proH-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;curved=1;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1308" y="-69" as="sourcePoint" />
+            <mxPoint x="-1308" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
