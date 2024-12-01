@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" version="24.9.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" version="25.0.0">
   <diagram name="Page-1" id="F3TrKfFbRiF8tJtaXqeu">
-    <mxGraphModel dx="2722" dy="1161" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3190" dy="1478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lpOA4O-bADo8tYY5proH-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;file&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Background.js (javascript)&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ onMessage: (request: Object, sender: object, sendResponse: function: void)&lt;br&gt;+ fetchCompanies(domain:String)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- fetchCompanies(domain:String):&amp;nbsp;&lt;br&gt;- fetchDataFromAPI(domain:String:Promise&amp;lt;Object&amp;gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-1373" y="-231" width="498" height="140" as="geometry" />
+          <mxGeometry x="-1456" y="-319" width="498" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="lpOA4O-bADo8tYY5proH-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;file&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;popup.css (CSS)&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- body: width = 400px, height = 400px&lt;br&gt;- h1: color = blue&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- popup-body: class styling&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- domain-input: class type&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;-company-info-header: class styling&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;-company-info-output:class styling&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="lpOA4O-bADo8tYY5proH-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;file&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;gmail_signin.css (CSS)&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- body: width = 300px, height = 750px&lt;br&gt;- header: color = display:flex, color:white&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- gmail-body: class styling, height:48px&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- domain-input: class type&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- back-arrow: cursor:pointer, font-size:24px&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;- message: font-size:18px: font-weight 600&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-1204" y="6" width="355" height="140" as="geometry" />
         </mxCell>
         <mxCell id="lpOA4O-bADo8tYY5proH-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;curved=1;" parent="1" edge="1">
@@ -19,7 +19,7 @@
         <mxCell id="lpOA4O-bADo8tYY5proH-8" value="styling for pop.html" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-832" y="48" width="139" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lpOA4O-bADo8tYY5proH-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;file&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;pop.html&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- title: String = &quot;SigParser API&quot;&lt;br&gt;- link: CSSFile = &quot;popup.css&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- script: JSFile = &quot;popup.js&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- body: HTMLBodyElement&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="lpOA4O-bADo8tYY5proH-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;file&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;gmail_signin.html&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- title: String = &quot;SigParser API&quot;&lt;br&gt;- link: CSSFile = &quot;gmail_signin.css&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- script: JSFile = &quot;popup.js&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- body: HTMLBodyElement&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-649" y="20" width="401" height="207" as="geometry" />
         </mxCell>
         <mxCell id="lpOA4O-bADo8tYY5proH-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;curved=1;" parent="1" edge="1">
@@ -36,9 +36,24 @@
         </mxCell>
         <mxCell id="lpOA4O-bADo8tYY5proH-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;curved=1;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-1308" y="-69" as="sourcePoint" />
-            <mxPoint x="-1308" y="230" as="targetPoint" />
+            <mxPoint x="-1305" y="-148" as="sourcePoint" />
+            <mxPoint x="-1305" y="229" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="N_c3J_JNhHiuwBnga-XF-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;manifest.json&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- manifest_version: integer = 3&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- name: String = &quot;SigParser API&quot;&lt;br&gt;- version: String = &quot;1.0&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- permission: Array[&quot;tab&quot;, &quot;storage&quot;, &quot;activeTab&quot;, &quot;storage&quot;]&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- action: String = &quot;pop, html&quot; default popup)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- host_permission: &quot;https://mail.google.com/*&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- content_scripts: matches = &amp;nbsp;Array[&quot;matches:[&quot;https://mail.google.com/*], [&quot;gmail.js&quot;]]&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-664.5" y="-388" width="627.5" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="N_c3J_JNhHiuwBnga-XF-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-416" y="-114" as="sourcePoint" />
+            <mxPoint x="-416" y="6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N_c3J_JNhHiuwBnga-XF-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;If https is equal to gmail.com, manifest.json will trigger and render gmail_signin.html&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-649" y="-162" width="610" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="N_c3J_JNhHiuwBnga-XF-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Give popup.js permission to access SigParser&#39;s API&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-1562" y="15" width="386" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
